@@ -1,6 +1,6 @@
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
-import { Home, Building2, Wifi, Camera, WrenchScrewdriver, ChevronRight } from "lucide-react"
+import { Home, Building2, Wifi, Camera, Wrench, ChevronRight } from "lucide-react"
 import Link from "next/link"
 
 const services = [
@@ -57,7 +57,7 @@ const services = [
     href: "/services/wireless"
   },
   {
-    icon: WrenchScrewdriver,
+    icon: Wrench,
     title: "Maintenance & Repair",
     description: "Professional maintenance and repair services to keep your CCTV system running optimally.",
     features: [
