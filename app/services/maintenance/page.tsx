@@ -1,10 +1,10 @@
 import { Header } from "@/components/layout/header"
 import { Footer } from "@/components/layout/footer"
 import { ServiceDetail } from "@/components/services/service-detail"
-import { WrenchScrewdriver } from "lucide-react"
+import { WrenchIcon } from "lucide-react"
 
 const serviceData = {
-  icon: WrenchScrewdriver,
+  icon: WrenchIcon,
   title: "Maintenance & Repair",
   description: "Professional maintenance and repair services to keep your CCTV system running optimally.",
   features: [
