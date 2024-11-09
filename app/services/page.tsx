@@ -1,7 +1,7 @@
 import { Header } from "@/components/layout/header"
 import { Footer } from "@/components/layout/footer"
 import { ServiceCard } from "@/components/services/service-card"
-import { Camera, Building2, Wifi, Hammer, WrenchIcon, Network } from "lucide-react"
+import { Camera, Building2, Wifi, Hammer, Wrench, Network } from "lucide-react"
 
 const services = [
   {
