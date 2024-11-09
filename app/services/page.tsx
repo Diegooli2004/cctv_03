@@ -1,7 +1,7 @@
 import { Header } from "@/components/layout/header"
 import { Footer } from "@/components/layout/footer"
 import { ServiceCard } from "@/components/services/service-card"
-import { Camera, Building2, Wifi, Tool, WrenchIcon, Network } from "lucide-react"
+import { Camera, Building2, Wifi, Hammer, WrenchIcon, Network } from "lucide-react"
 
 const services = [
   {
@@ -31,7 +31,7 @@ const services = [
   {
     title: "Maintenance & Repair",
     description: "Professional maintenance and repair services to keep your CCTV system running optimally.",
-    icon: Tool,
+    icon: Hammer,
     href: "/services/maintenance"
   }
 ]
