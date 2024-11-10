@@ -562,7 +562,7 @@ Smart CCTV systems represent the next evolution in home security, offering unpre
     readTime: "15 min read",
     author: "Emma Wilson",
     category: "Innovation",
-    image: "https://images.unsplash.com/photo-1593113646773-028c64a8f1b8?q=80&w=2070&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1558002038-1055907df827?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     id: 5,
@@ -649,6 +649,6 @@ Regular maintenance ensures optimal performance and extends system life. Follow 
     readTime: "9 min read",
     author: "Robert Martinez",
     category: "Maintenance",
-    image: "https://images.unsplash.com/photo-1553434320-e9f5757140b1?q=80&w=2070&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1485310818226-f01c4269687f?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   }
 ]
