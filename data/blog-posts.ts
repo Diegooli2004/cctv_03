@@ -650,7 +650,7 @@ Regular maintenance ensures optimal performance and extends system life. Follow 
     author: "Robert Martinez",
     category: "Maintenance",
     image: "https://images.unsplash.com/photo-1485310818226-f01c4269687f?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
-  }
+  },
   {
     id: 6,
     title: "DIY vs. Professional CCTV Installation: Pros and Cons",
