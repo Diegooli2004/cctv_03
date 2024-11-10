@@ -145,9 +145,9 @@ Remember to:
 With strategic placement and proper maintenance, your CCTV system will provide reliable security monitoring and peace of mind.`,
     date: "2024-03-20",
     readTime: "12 min read",
-    author: "David Thompson",
+    author: "D. Oliveira",
     category: "Installation",
-    image: "https://images.unsplash.com/photo-1557597774-9d475d5e8896?q=80&w=2070&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1465061935505-a7ac0037fd42?q=80&w=1754&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     id: 2,
@@ -319,7 +319,7 @@ Selecting the right CCTV camera type is crucial for creating an effective securi
     readTime: "10 min read",
     author: "Sarah Johnson",
     category: "Technology",
-    image: "https://images.unsplash.com/photo-1580981433573-c5604cb7c564?q=80&w=2070&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1461685265823-f8d5d0b08b9b?q=80&w=1740&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     id: 3,
@@ -461,7 +461,7 @@ Avoiding these common installation mistakes will ensure your CCTV system perform
     readTime: "8 min read",
     author: "Michael Chen",
     category: "Installation",
-    image: "https://images.unsplash.com/photo-1616469832301-ffb2c59576a5?q=80&w=2070&auto=format&fit=crop"
+    image: "https://images.unsplash.com/photo-1675266873434-5ba73c38ce6f?q=80&w=2014&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   },
   {
     id: 4,
