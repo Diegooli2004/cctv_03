@@ -7,20 +7,17 @@ import { Calendar, Clock } from "lucide-react"
 import Image from "next/image"
 import ReactMarkdown from 'react-markdown'
 
-interface BlogPostPageProps {
-  params: {
-    id: string
-  }
-  searchParams: { [key: string]: string | string[] | undefined }
-}
-
 export function generateStaticParams() {
   return blogPosts.map((post) => ({
     id: post.id.toString(),
   }))
 }
 
-export default async function BlogPostPage({ params }: BlogPostPageProps) {
+export default async function BlogPostPage({
+  params,
+}: {
+  params: { id: string }
+}) {
   const post = blogPosts.find((p) => p.id.toString() === params.id)
 
   if (!post) {
