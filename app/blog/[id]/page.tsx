@@ -6,9 +6,10 @@ import { blogPosts } from "@/data/blog-posts"
 import { Calendar, Clock } from "lucide-react"
 import Image from "next/image"
 import ReactMarkdown from 'react-markdown'
+import { Params } from 'next/dist/shared/lib/router/utils/route-matcher'
 
 interface BlogPostPageProps {
-  params: {
+  params: Params & {
     id: string
   }
 }
