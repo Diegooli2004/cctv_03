@@ -11,6 +11,7 @@ interface BlogPostPageProps {
   params: {
     id: string
   }
+  searchParams: { [key: string]: string | string[] | undefined }
 }
 
 export function generateStaticParams() {
@@ -19,7 +20,7 @@ export function generateStaticParams() {
   }))
 }
 
-export default function BlogPostPage({ params }: BlogPostPageProps) {
+export default async function BlogPostPage({ params }: BlogPostPageProps) {
   const post = blogPosts.find((p) => p.id.toString() === params.id)
 
   if (!post) {
